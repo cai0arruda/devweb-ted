@@ -1,0 +1,36 @@
+<table class="table table-striped table-hover shadow-sm">
+  <thead class="table-primary">
+    <tr>
+      <th>Nome</th>
+      <th>Sobrenome</th>
+      <th>Idade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>João</td>
+      <td>Silva</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>Maria</td>
+      <td>Souza</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>Carlos</td>
+      <td>Oliveira</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Ana</td>
+      <td>Lima</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Bruno</td>
+      <td>Santos</td>
+      <td>26</td>
+    </tr>
+  </tbody>
+</table>
