@@ -8,29 +8,29 @@
   </thead>
   <tbody>
     <tr>
-      <td>João</td>
-      <td>Silva</td>
-      <td>28</td>
+      <td>Caio</td>
+      <td>Arruda</td>
+      <td>21</td>
     </tr>
     <tr>
-      <td>Maria</td>
-      <td>Souza</td>
-      <td>34</td>
+      <td>Edy</td>
+      <td>Brito</td>
+      <td>32</td>
     </tr>
     <tr>
-      <td>Carlos</td>
-      <td>Oliveira</td>
-      <td>22</td>
+      <td>Zezé</td>
+      <td>Di Camargo</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>Ana</td>
-      <td>Lima</td>
-      <td>30</td>
+      <td>Maria Braga</td>
+      <td>76</td>
     </tr>
     <tr>
-      <td>Bruno</td>
-      <td>Santos</td>
-      <td>26</td>
+      <td>Fausto</td>
+      <td>Silva</td>
+      <td>75</td>
     </tr>
   </tbody>
 </table>
